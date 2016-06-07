@@ -1,2 +1,5 @@
 # hello-world
-Launch into Code
+
+Hullo, Github!
+
+Kenlyn here, ready to build some great projects. 
